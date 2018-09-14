@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"testDiceOrderedCollection" : "LucasLivrone 9/9/2018 13:24",
+		"testPlayerRollRandomAndAdvancePosition" : "LucasLivrone 9/8/2018 13:59",
+		"testCreatePlayerWithDice" : "LucasLivrone 9/8/2018 13:52",
+		"testPlayerRollAlwaysFive" : "LucasLivrone 9/8/2018 13:52",
+		"testPlayerRollChargedAndAvancePosition" : "LucasLivrone 9/8/2018 14:07",
+		"testPLayerRollRandom" : "LucasLivrone 9/8/2018 13:52",
+		"testCanICreateDice" : "LucasLivrone 9/8/2018 14:08",
+		"testTwoPlayersWithRandomDiceAndRandomTable" : "LucasLivrone 9/8/2018 19:35",
+		"testTwoPlayersWithChargedDiceAndTenPositionsTable" : "LucasLivrone 9/8/2018 17:59",
+		"testValidDiceValue" : "LucasLivrone 9/8/2018 12:11",
+		"testGameWithThreePlayersWithOneDiceEach" : "LucasLivrone 9/9/2018 16:02",
+		"testDiceArray" : "LucasLivrone 9/9/2018 13:19",
+		"testCreatePlayerWithDiceCollectionAndRollRandom" : "LucasLivrone 9/9/2018 16:42",
+		"testInitializePlayerWithDiceAndName" : "LucasLivrone 9/9/2018 13:56",
+		"testGame" : "LucasLivrone 9/9/2018 17:51",
+		"testPlayerRollCharged" : "LucasLivrone 9/8/2018 14:32"
+	},
+	"class" : { }
+}

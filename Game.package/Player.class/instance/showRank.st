@@ -1,0 +1,3 @@
+accessing
+showRank
+	^ rank
