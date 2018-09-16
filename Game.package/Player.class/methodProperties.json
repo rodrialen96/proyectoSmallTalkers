@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"showPosition" : "LucasLivrone 9/8/2018 13:28",
+		"showRank" : "LucasLivrone 9/9/2018 16:08",
+		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
+		"rankedWithValue:" : "LucasLivrone 9/9/2018 16:07",
+		"showDice" : "LucasLivrone 9/15/2018 18:02",
+		"roll" : "LucasLivrone 9/15/2018 18:02",
+		"initializeWithDiceCollection:andName:" : "LucasLivrone 9/15/2018 17:55",
+		"advancePosition" : "LucasLivrone 9/8/2018 13:57",
+		"showName" : "LucasLivrone 9/9/2018 13:52"
+	},
+	"class" : {
+		"withDiceCollection:andName:" : "LucasLivrone 9/9/2018 16:15"
+	}
+}
