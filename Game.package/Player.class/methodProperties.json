@@ -1,28 +1,16 @@
 {
 	"instance" : {
-		"advancePosition" : "LucasLivrone 9/8/2018 13:57",
-		"initializeWithDice:andName:" : "LucasLivrone 9/9/2018 13:51",
-		"initializeWithDice:and:" : "LucasLivrone 9/9/2018 13:51",
-		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
-		"initializeWithDice:" : "LucasLivrone 9/9/2018 13:48",
-		"rollRandom" : "LucasLivrone 9/9/2018 13:39",
-		"showRank" : "LucasLivrone 9/9/2018 16:08",
-		"initializeWithDiceCollection:andName:" : "LucasLivrone 9/9/2018 13:52",
-		"advancePositionWithValue:" : "LucasLivrone 9/8/2018 14:05",
-		"roll" : "LucasLivrone 9/9/2018 16:25",
-		"rollRandomDiceCollection" : "LucasLivrone 9/9/2018 17:12",
-		"rankedWithValue:" : "LucasLivrone 9/9/2018 16:07",
-		"rollAlwaysFive" : "LucasLivrone 9/9/2018 13:39",
-		"showDice" : "LucasLivrone 9/9/2018 16:58",
 		"showPosition" : "LucasLivrone 9/8/2018 13:28",
-		"rollCharged" : "LucasLivrone 9/9/2018 13:39",
-		"showName" : "LucasLivrone 9/9/2018 13:52",
-		"initializeWithDiceCollection:" : "LucasLivrone 9/9/2018 13:31"
+		"showRank" : "LucasLivrone 9/9/2018 16:08",
+		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
+		"rankedWithValue:" : "LucasLivrone 9/9/2018 16:07",
+		"showDice" : "LucasLivrone 9/15/2018 18:02",
+		"roll" : "LucasLivrone 9/15/2018 18:02",
+		"initializeWithDiceCollection:andName:" : "LucasLivrone 9/15/2018 17:55",
+		"advancePosition" : "LucasLivrone 9/8/2018 13:57",
+		"showName" : "LucasLivrone 9/9/2018 13:52"
 	},
 	"class" : {
-		"withDiceCollection:andName:" : "LucasLivrone 9/9/2018 16:15",
-		"withDice:" : "LucasLivrone 9/9/2018 13:27",
-		"withDiceAndName:and:" : "LucasLivrone 9/9/2018 13:55",
-		"withDiceCollection:" : "LucasLivrone 9/9/2018 13:31"
+		"withDiceCollection:andName:" : "LucasLivrone 9/9/2018 16:15"
 	}
 }
