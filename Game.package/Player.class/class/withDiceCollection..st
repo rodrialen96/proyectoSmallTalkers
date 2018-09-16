@@ -1,3 +1,3 @@
 initialization
 withDiceCollection: aDiceCollection
-^ self new initializeWithDiceCollection: aDiceCollection 
+	^ self new initializeWithDiceCollection: aDiceCollection

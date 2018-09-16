@@ -1,10 +1,11 @@
 {
 	"instance" : {
-		"faceValue" : "Lucas 9/5/2018 21:17",
+		"faceValue" : "RodrigoSalaDenby 9/16/2018 16:55",
+		"roll" : "RodrigoSalaDenby 9/16/2018 17:32",
 		"initializeWithFaceValue:" : "Lucas 9/5/2018 21:13"
 	},
 	"class" : {
-		"assertValidDiceValue:" : "LucasLivrone 9/8/2018 12:04",
+		"assertValidDiceValue:" : "RodrigoSalaDenby 9/16/2018 16:53",
 		"withNumberOfFaces:" : "Lucas 9/5/2018 21:59"
 	}
 }

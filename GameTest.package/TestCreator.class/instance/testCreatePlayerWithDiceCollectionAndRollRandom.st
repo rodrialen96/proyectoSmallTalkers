@@ -8,5 +8,5 @@ testCreatePlayerWithDiceCollectionAndRollRandom
 	player := Player withDiceCollection: diceCol.
 	player rollRandomDiceCollection.
 	self assert: diceCol size equals: 21.
-	self assert: player showDice size == 21.
+	self assert: player showDice size == 0.
 	self assert: (player showRollNumber between: 1 and: 30).

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Dice",
+	"category" : "Game",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DiceRandom",
+	"type" : "normal"
+}

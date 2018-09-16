@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Dice",
+	"category" : "Game",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"actualValue"
+	],
+	"name" : "DiceCharged",
+	"type" : "normal"
+}
