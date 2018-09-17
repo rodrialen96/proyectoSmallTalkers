@@ -1,6 +1,5 @@
 {
 	"instance" : {
-<<<<<<< HEAD
 		"showPosition" : "LucasLivrone 9/8/2018 13:28",
 		"showRank" : "LucasLivrone 9/9/2018 16:08",
 		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
@@ -13,33 +12,5 @@
 	},
 	"class" : {
 		"withDiceCollection:andName:" : "LucasLivrone 9/9/2018 16:15"
-=======
-		"advancePosition" : "LucasLivrone 9/8/2018 13:57",
-		"rollAlwaysFive" : "LucasLivrone 9/9/2018 13:39",
-		"rollRandom" : "LucasLivrone 9/9/2018 13:39",
-		"showDice" : "LucasLivrone 9/15/2018 18:02",
-		"roll" : "RodrigoSalaDenby 9/16/2018 17:42",
-		"advancePositionWithValue:" : "LucasLivrone 9/8/2018 14:05",
-		"rollCharged" : "LucasLivrone 9/9/2018 13:39",
-		"initializeWithDiceCollection:andName:" : "LucasLivrone 9/15/2018 17:55",
-		"rollRandomDiceCollection" : "LucasLivrone 9/9/2018 17:12",
-		"initializeWithDice:" : "LucasLivrone 9/9/2018 13:48",
-		"rankedWithValue:" : "LucasLivrone 9/9/2018 16:07",
-		"showPosition" : "LucasLivrone 9/8/2018 13:28",
-		"initializeWithDice:andName:" : "LucasLivrone 9/9/2018 13:51",
-		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
-		"initializeWithDiceCollection:" : "LucasLivrone 9/9/2018 13:31",
-		"initializeWithDice:and:" : "LucasLivrone 9/9/2018 13:51",
-		"showName" : "LucasLivrone 9/9/2018 13:52",
-		"showRank" : "LucasLivrone 9/9/2018 16:08",
-		"showDices" : "RodrigoSalaDenby 9/16/2018 16:45"
-	},
-	"class" : {
-		"withDice:" : "RodrigoSalaDenby 9/16/2018 16:54",
-		"withDiceAndName:and:" : "RodrigoSalaDenby 9/16/2018 16:55",
-		"withDiceCollection:andName:" : "RodrigoSalaDenby 9/16/2018 17:05",
-		"assertWithValidValueOfDices:" : "RodrigoSalaDenby 9/16/2018 17:05",
-		"withDiceCollection:" : "RodrigoSalaDenby 9/16/2018 16:55"
->>>>>>> rodri
 	}
 }
