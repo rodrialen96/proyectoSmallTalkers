@@ -1,10 +1,19 @@
 {
 	"instance" : {
+<<<<<<< HEAD
 		"faceValue" : "Lucas 9/5/2018 21:17",
 		"initializeWithFaceValue:" : "Lucas 9/5/2018 21:13"
 	},
 	"class" : {
 		"assertValidDiceValue:" : "LucasLivrone 9/8/2018 12:04",
+=======
+		"faceValue" : "RodrigoSalaDenby 9/16/2018 16:55",
+		"roll" : "RodrigoSalaDenby 9/16/2018 17:32",
+		"initializeWithFaceValue:" : "Lucas 9/5/2018 21:13"
+	},
+	"class" : {
+		"assertValidDiceValue:" : "RodrigoSalaDenby 9/16/2018 16:53",
+>>>>>>> rodri
 		"withNumberOfFaces:" : "Lucas 9/5/2018 21:59"
 	}
 }
