@@ -12,6 +12,7 @@ SqueakDebug.log
 
 # Monticello package cache
 /package-cache
+*/version
 
 # playground cache
 /play-cache
