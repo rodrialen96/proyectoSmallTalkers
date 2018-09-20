@@ -1,0 +1,3 @@
+playing
+finish
+	finish:= true.

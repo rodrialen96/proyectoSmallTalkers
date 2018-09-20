@@ -1,11 +1,7 @@
 {
 	"instance" : {
-		"showFinish" : "LucasLivrone 9/9/2018 14:12",
-		"winnerIs:" : "LucasLivrone 9/9/2018 15:30",
-		"showWinner" : "LucasLivrone 9/9/2018 15:31",
-		"initializeWithSize:" : "LucasLivrone 9/9/2018 14:12",
-		"finishGame" : "LucasLivrone 9/9/2018 14:14",
-		"showPositions" : "LucasLivrone 9/8/2018 17:48"
+		"showPositions" : "LucasLivrone 9/8/2018 17:48",
+		"initializeWithSize:" : "LucasLivrone 9/9/2018 14:12"
 	},
 	"class" : {
 		"withSize:" : "RodrigoSalaDenby 9/16/2018 16:50",
