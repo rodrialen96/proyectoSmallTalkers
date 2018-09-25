@@ -1,9 +1,13 @@
 {
 	"instance" : {
-		"finish" : "RodrigoSalaDenby 9/19/2018 21:11",
-		"name:withPlayers:withTableSize:" : "RodrigoSalaDenby 9/19/2018 21:19",
-		"play" : "RodrigoSalaDenby 9/19/2018 21:09",
-		"rankPlayers" : "RodrigoSalaDenby 9/19/2018 21:13"
+		"play" : "LucasLivrone 9/20/2018 15:22",
+		"finished" : "LucasLivrone 9/20/2018 15:07",
+		"rankPlayers" : "LucasLivrone 9/20/2018 15:14",
+		"winner" : "LucasLivrone 9/20/2018 15:08",
+		"initializeWithname:withPlayers:withTableSize:" : "RodrigoSalaDenby 9/25/2018 20:45",
+		"ranking" : "LucasLivrone 9/20/2018 15:18"
 	},
-	"class" : { }
+	"class" : {
+		"name:withPlayers:withTableSize:" : "RodrigoSalaDenby 9/25/2018 20:46"
+	}
 }

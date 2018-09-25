@@ -5,5 +5,5 @@ testPlayerRollCharged
 	player := Player withDice: dice.
 	player rollCharged.
 	sum := 0.
-	1 to: 3 do: [ :i | sum := sum + player showRollNumber at: i ]. 
+	1 to: 3 do: [ :i | sum := sum + player rollNumber at: i ]. 
 	self assert: sum equals: 7

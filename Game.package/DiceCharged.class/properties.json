@@ -1,12 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Dice",
+	"super" : "Object",
 	"category" : "Game",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"actualValue"
+		"sequence",
+		"quantityFaces"
 	],
 	"name" : "DiceCharged",
 	"type" : "normal"

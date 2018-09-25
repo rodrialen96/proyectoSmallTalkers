@@ -1,3 +1,3 @@
 accessing
-showPositions
+positions
 	^ positions

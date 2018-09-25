@@ -8,16 +8,16 @@ testTwoPlayersWithChargedDiceAndTenPositionsTable
 	i := 1.
 	j := 1.
 	[ i <= 5 ]
-		whileTrue: [ player1 advancePositionWithValue: (player1 showRollNumber at: i).
+		whileTrue: [ player1 advancePositionWithValue: (player1 rollNumber at: i).
 			player2 advancePositionWithValue: 1.
-			player1 showPosition >= 10
+			player1 position >= 10
 				ifTrue: [ player1 rankedWithValue: j.
 					j := j + 1 .
 					player2 rankedWithValue: j.].
-			player2 showPosition >= 10
+			player2 position >= 10
 				ifTrue: [ player2 rankedWithValue: j.
 					j := j + 1 .
 					player2 rankedWithValue: j.].
 			i := i + 1 ].
-	self assert: player1 showRank equals: 1.
-	self assert: player2 showRank equals: 2.
+	self assert: player1 rank equals: 1.
+	self assert: player2 rank equals: 2.

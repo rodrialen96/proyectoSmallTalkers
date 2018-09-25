@@ -1,11 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Dice",
+	"super" : "Object",
 	"category" : "Game",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"quantityFaces"
+	],
 	"name" : "DiceRandom",
 	"type" : "normal"
 }

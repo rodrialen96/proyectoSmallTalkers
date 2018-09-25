@@ -1,3 +1,3 @@
 accessing
-showName
+name
 	^ name

@@ -4,7 +4,7 @@ testGameV2
 
 	| table players ranking diceCollection |
 	table := Table withSize: 100.
-	ranking := SortedCollection sortBlock: [ :p1 :p2 | p1 showPosition >= p2 showPosition ].	
+	ranking := SortedCollection sortBlock: [ :p1 :p2 | p1 position >= p2 position ].	
 	players := OrderedCollection new.
 	diceCollection := OrderedCollection new.
 	diceCollection add: (DiceCharged withNumberOfFaces: 50).
@@ -18,9 +18,9 @@ testGameV2
 				table showFinish == 0
 					ifTrue: [ (players at: i) roll.
 						(players at: i) advancePosition.
-						(players at: i) showPosition >= table showPositions
+						(players at: i) position >= table positions
 							ifTrue: [ table finishGame.
-								table winnerIs: (players at: i) showName ] ] ] ].
+								table winnerIs: (players at: i) name ] ] ] ].
 	"---------------Termina el While-----------------"
 	"Creo una lista ordenada con las posiciones de cada jugador"
 	1 to: players size do: [ :i | ranking add: (players at: i) ].
@@ -29,9 +29,9 @@ testGameV2
 	"----------------Juego Terminado, se sabe el ganador y el ranking de cada uno--------------"
 	self assert: table showFinish == 1.
 	self assert: table showWinner equals: 'Rodri'.
-	self assert: (ranking at: 1) showName equals: 'Rodri'.
-	self assert: (ranking at: 2) showName equals: 'Julian'.
-	self assert: (ranking at: 3) showName equals: 'Lucas'.
-	self assert: (players at: 1) showRank equals: 1.
-	self assert: (players at: 2) showRank equals: 2.
-	self assert: (players at: 3) showRank equals: 3
+	self assert: (ranking at: 1) name equals: 'Rodri'.
+	self assert: (ranking at: 2) name equals: 'Julian'.
+	self assert: (ranking at: 3) name equals: 'Lucas'.
+	self assert: (players at: 1) rank equals: 1.
+	self assert: (players at: 2) rank equals: 2.
+	self assert: (players at: 3) rank equals: 3

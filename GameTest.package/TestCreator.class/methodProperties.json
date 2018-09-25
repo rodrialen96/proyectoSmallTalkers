@@ -1,21 +1,21 @@
 {
 	"instance" : {
 		"testDiceOrderedCollection" : "LucasLivrone 9/9/2018 13:24",
-		"testPlayerRollRandomAndAdvancePosition" : "LucasLivrone 9/8/2018 13:59",
-		"testCreatePlayerWithDice" : "LucasLivrone 9/8/2018 13:52",
-		"testPlayerRollAlwaysFive" : "LucasLivrone 9/8/2018 13:52",
-		"testPlayerRollChargedAndAvancePosition" : "LucasLivrone 9/8/2018 14:07",
-		"testPLayerRollRandom" : "LucasLivrone 9/8/2018 13:52",
+		"testPlayerRollRandomAndAdvancePosition" : "LucasLivrone 9/20/2018 15:23",
+		"testCreatePlayerWithDice" : "LucasLivrone 9/20/2018 15:22",
+		"testPlayerRollAlwaysFive" : "LucasLivrone 9/20/2018 15:23",
+		"testPlayerRollChargedAndAvancePosition" : "LucasLivrone 9/20/2018 15:23",
+		"testPLayerRollRandom" : "LucasLivrone 9/20/2018 15:23",
 		"testCanICreateDice" : "LucasLivrone 9/8/2018 14:08",
-		"testTwoPlayersWithRandomDiceAndRandomTable" : "LucasLivrone 9/8/2018 19:35",
-		"testTwoPlayersWithChargedDiceAndTenPositionsTable" : "LucasLivrone 9/8/2018 17:59",
+		"testTwoPlayersWithRandomDiceAndRandomTable" : "LucasLivrone 9/20/2018 15:22",
+		"testTwoPlayersWithChargedDiceAndTenPositionsTable" : "LucasLivrone 9/20/2018 15:23",
 		"testValidDiceValue" : "LucasLivrone 9/8/2018 12:11",
-		"testGameWithThreePlayersWithOneDiceEach" : "LucasLivrone 9/9/2018 16:02",
+		"testGameWithThreePlayersWithOneDiceEach" : "LucasLivrone 9/20/2018 15:22",
 		"testDiceArray" : "LucasLivrone 9/9/2018 13:19",
-		"testCreatePlayerWithDiceCollectionAndRollRandom" : "RodrigoSalaDenby 9/16/2018 15:58",
-		"testInitializePlayerWithDiceAndName" : "LucasLivrone 9/9/2018 13:56",
-		"testGame" : "LucasLivrone 9/9/2018 17:51",
-		"testPlayerRollCharged" : "LucasLivrone 9/8/2018 14:32"
+		"testCreatePlayerWithDiceCollectionAndRollRandom" : "LucasLivrone 9/20/2018 15:23",
+		"testInitializePlayerWithDiceAndName" : "LucasLivrone 9/20/2018 15:22",
+		"testGame" : "LucasLivrone 9/20/2018 15:22",
+		"testPlayerRollCharged" : "LucasLivrone 9/20/2018 15:23"
 	},
 	"class" : { }
 }

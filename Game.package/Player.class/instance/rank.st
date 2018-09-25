@@ -1,3 +1,3 @@
 accessing
-showRank
+rank
 	^ rank

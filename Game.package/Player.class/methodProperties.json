@@ -1,14 +1,14 @@
 {
 	"instance" : {
-		"showRank" : "LucasLivrone 9/9/2018 16:08",
-		"showRollNumber" : "LucasLivrone 9/8/2018 12:26",
-		"showDiceCollection" : "RodrigoSalaDenby 9/19/2018 21:18",
+		"position" : "LucasLivrone 9/20/2018 15:22",
+		"rank" : "LucasLivrone 9/20/2018 15:22",
+		"diceCollection" : "LucasLivrone 9/20/2018 15:22",
 		"rankedWithValue:" : "LucasLivrone 9/9/2018 16:07",
-		"showName" : "LucasLivrone 9/9/2018 13:52",
-		"roll" : "RodrigoSalaDenby 9/16/2018 17:42",
+		"rollNumber" : "LucasLivrone 9/20/2018 15:23",
 		"initializeWithDiceCollection:andName:" : "LucasLivrone 9/15/2018 17:55",
+		"name" : "LucasLivrone 9/20/2018 15:22",
 		"advancePosition" : "LucasLivrone 9/8/2018 13:57",
-		"showPosition" : "LucasLivrone 9/8/2018 13:28"
+		"roll" : "LucasLivrone 9/20/2018 15:20"
 	},
 	"class" : {
 		"withDice:" : "RodrigoSalaDenby 9/16/2018 16:54",

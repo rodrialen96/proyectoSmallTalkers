@@ -1,3 +1,3 @@
 accessing
-showRollNumber
+rollNumber
 	^ rollNumber 

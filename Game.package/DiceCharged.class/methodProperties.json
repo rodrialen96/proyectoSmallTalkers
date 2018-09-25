@@ -1,11 +1,13 @@
 {
 	"instance" : {
+		"initializeWithSequence:" : "LucasLivrone 9/20/2018 15:35",
 		"faceValue" : "RodrigoSalaDenby 9/16/2018 17:30",
 		"roll" : "RodrigoSalaDenby 9/19/2018 21:23",
-		"initializeWithFaceValue:" : "RodrigoSalaDenby 9/16/2018 19:50"
+		"initializeWithFaceValue:" : "LucasLivrone 9/20/2018 15:34"
 	},
 	"class" : {
 		"assertValidDiceValue:" : "RodrigoSalaDenby 9/16/2018 17:30",
-		"withNumberOfFaces:" : "RodrigoSalaDenby 9/16/2018 17:30"
+		"withNumberOfFaces:" : "RodrigoSalaDenby 9/16/2018 17:30",
+		"withSequence:" : "LucasLivrone 9/20/2018 15:38"
 	}
 }

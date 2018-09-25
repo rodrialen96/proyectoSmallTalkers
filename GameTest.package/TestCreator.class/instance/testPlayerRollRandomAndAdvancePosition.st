@@ -5,4 +5,4 @@ testPlayerRollRandomAndAdvancePosition
 	player := Player withDice: dice.
 	player rollRandom.
 	player advancePosition.
-	self assert: (player showPosition) equals: (player showRollNumber).
+	self assert: (player position) equals: (player rollNumber).

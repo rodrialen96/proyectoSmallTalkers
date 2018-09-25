@@ -1,3 +1,3 @@
 accessing
-showDiceCollection
+diceCollection
 	^ diceCollection 

@@ -12,13 +12,13 @@ testTwoPlayersWithRandomDiceAndRandomTable
 			player1 advancePosition.
 			player2 rollRandom.
 			player2 advancePosition.
-			player1 showPosition >= table showPositions
+			player1 position >= table positions
 				ifTrue: [ player1 rankedWithValue: 1.
 					player2 rankedWithValue: 2.
 					i := 1 ].
-			player2 showPosition >= table showPositions
+			player2 position >= table positions
 				ifTrue: [ player2 rankedWithValue: 1.
 					player1 rankedWithValue: 2.
 					i := 1 ] ].
-	self assert: player1 showRank equals: 2.
-	self assert: player2 showRank equals: 1
+	self assert: player1 rank equals: 2.
+	self assert: player2 rank equals: 1
